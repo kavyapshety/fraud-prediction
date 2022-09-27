@@ -23,4 +23,4 @@ pyLDAvis==3.3.1
 joblib==1.1.0
 streamlit-option-menu==0.3.2
 protobuf<=3.21.0
-en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.3.0/en_core_web_sm-3.3.0.tar.gz
+en_core_web_lg
